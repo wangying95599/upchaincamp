@@ -1,5 +1,0 @@
-部署合约
-https://goerli.etherscan.io/tx/0x75ff6d0e4886e1a48666e135ab2118dd51a6bf7a340de24b4eaf7c4b9aa8c8a8
-
-转账
-https://goerli.etherscan.io/tx/0xc8d5fbcc70f30c82997c49b9b4ea002063ee0c4196f4892de6fd0276f82e7592
